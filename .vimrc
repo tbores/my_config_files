@@ -3,6 +3,8 @@
 set colorcolumn=80
 " Display line number
 set number
+" Highlight search
+set hlsearch
 
 " ***** TABS/SPACES CONFIGURATION *****
 " A four-space tab indent width is the prefered coding style for Python
